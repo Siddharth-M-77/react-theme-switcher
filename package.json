@@ -1,0 +1,39 @@
+{
+  "name": "react-theme-switcher-siddharth7477",
+  "version": "1.0.2",
+  "description": "A lightweight React component for toggling between light and dark themes.",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "babel src --out-dir dist"
+  },
+  "keywords": [
+    "react",
+    "theme-switcher",
+    "dark-mode",
+    "light-mode",
+    "theme",
+    "toggle"
+  ],
+  "author": "Siddharth7477",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/react-theme-switcher-siddharth7477.git"
+  },
+  "dependencies": {
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0"
+  },
+  "peerDependencies": {
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.25.9",
+    "@babel/core": "^7.26.0",
+    "@babel/preset-env": "^7.26.0",
+    "@babel/preset-react": "^7.25.9",
+    "prop-types": "^15.8.1"
+  }
+}
